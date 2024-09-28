@@ -7,7 +7,7 @@
     "start": "node dist/server.js",
     "build": "tsc",
     "dev": "nodemon --watch \"src/**/*\" --exec \"ts-node\" src/server.ts",
-    "watch": "nodemon --watch \"src/**/*\" --exec \"ts-node\" src/util/queueReciever.ts"
+    "watch": "nodemon --watch \"src/**/*\" --exec \"ts-node\" src/util/queueReceiver.ts"
   },
   "keywords": [],
   "author": "",
